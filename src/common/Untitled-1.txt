@@ -1,0 +1,22 @@
+
+    bounding_box - The bounding box surrounding a detected face.
+    smile - The likelihood that the person is smiling.
+    head_pose - The way the face is positioned in 3D.
+    gender - Whether the person is a male or a female.
+    age - Estimated age of the person.
+    facial_hair - The likelihood that the person has a moustache, beard, and/or sideburns, respectively.
+    glasses - Whether the person is wearing glasses.
+    emotion - The likelihood that the person's expression implies certain emotions.
+    blur - The amount of blur on the face.
+    exposure - The photo exposure on the face.
+    noise - A general and numeric evaluation of the amount of photographic noise on the face.
+    makeup - Whether the person is wearing eye and/or lip makeup.
+    accessories - An array of accessory items (if any) detected around the face area, such as headwear, glasses, or mask.
+    occlusion - Whether the forehead, eyes, or mouth is blocked, for example by a scarf, hat, or mask.
+    hair - Information about the hair, including whether the hair is visible in the photo, the likelihood that the person is bald, and the likelihood that the person's hair is a particular color.
+    facial_landmarks - Exact position details of specific elements of the mouth, eybrows, eyes, and nose.
+
+
+for () {
+    
+}
